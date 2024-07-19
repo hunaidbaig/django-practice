@@ -1,0 +1,7 @@
+body{
+    background-color: coral;
+    color: 7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
